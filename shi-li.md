@@ -16,7 +16,7 @@
 
 **返回参数**
 
-一个[DeviceAccessDetailResponse](https://cloud.baidu.com/doc/IOT/s/Mjwvy7nqs#deviceaccessdetailresponse%E5%8F%82%E6%95%B0%E5%88%97%E8%A1%A8)对象
+一个[DeviceAccessDetailResponse](https://cloud.baidu.com/doc/IOT/s/Mjwvy7nqs#deviceaccessdetailresponse参数列表)对象
 
 **请求示例**
 
@@ -29,7 +29,7 @@ Content-Type: application/json; charset=utf-8
        "deviceName": "mydevice",
        "description": "device_description",
        "schemaId":"uuid"
-}  
+}
 ```
 
 **返回示例**
@@ -43,7 +43,7 @@ x-bce-request-id: 993ff7e9-018b-4246-a7ba-5dddac970054
        "sslEndpoint": "ssl://test.baidu.iot.com",
        "username": "endpointName/device_1",
        "key":"bWwCxGwaw3boV48NqsuG+XVaHpxfKdMPvmdJzNObvbY="
-} 
+}
 ```
 
 ## 删除设备 {#删除设备}
@@ -54,11 +54,11 @@ x-bce-request-id: 993ff7e9-018b-4246-a7ba-5dddac970054
 
 **请求参数**
 
-一个[DeviceListRequest](https://cloud.baidu.com/doc/IOT/s/Mjwvy7nqs#devicelistrequest%E5%8F%82%E6%95%B0%E5%88%97%E8%A1%A8)对象
+一个[DeviceListRequest](https://cloud.baidu.com/doc/IOT/s/Mjwvy7nqs#devicelistrequest参数列表)对象
 
 **返回参数**
 
-一个[DeviceListResponse](https://cloud.baidu.com/doc/IOT/s/Mjwvy7nqs#devicelistresponse%E5%8F%82%E6%95%B0%E5%88%97%E8%A1%A8)对象
+一个[DeviceListResponse](https://cloud.baidu.com/doc/IOT/s/Mjwvy7nqs#devicelistresponse参数列表)对象
 
 **请求示例**
 

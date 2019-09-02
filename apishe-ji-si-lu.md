@@ -1,12 +1,8 @@
 # API设计思路
 
-API设计思路
+API设计基于rest api面向资源的设计来作为api的基本规范，对于实际业务里经常碰到的指令或者动作，用补充动词的方式来灵活处理。![](/assets/image2019-8-13_11-11-33.png)
 
-![](/assets/image2019-8-13_11-11-33.png)
-
-基本思路，基于rest api面向资源的设计来作为api的基本规范，对于实际业务里经常碰到的指令或者动作，用补充动词的方式来灵活处理。
-
-同时，建议后端开发在构建接口方法时，命名方式对应rest api的动词，基本建议如下：
+同时，后端开发在构建接口方法时，命名方式对应rest api的动词，基本建议如下：
 
 | Standard Method | HTTP Mapping | HTTP Request Body | HTTP Response Body |
 | :--- | :--- | :--- | :--- |
@@ -16,13 +12,11 @@ API设计思路
 | [Update](https://link.jianshu.com/?t=https%3A%2F%2Fcloud.google.com%2Fapis%2Fdesign%2Fstandard_methods%23update) | PUT or PATCH &lt;resource URL&gt; | Resource | Resource\* |
 | [Delete](https://link.jianshu.com/?t=https%3A%2F%2Fcloud.google.com%2Fapis%2Fdesign%2Fstandard_methods%23delete) | DELETE &lt;resource URL&gt; | Empty | Empty\*\* |
 
-### **•** {#API接口规范-•对外API规范}
-
 方案-实践建议：
 
 1.使用HTTP动词表示增删改查资源， GET：查询，POST：新增，PUT：更新，DELETE：删除
 
-2.组合命名统一用 \_下划线命名法\(UnderScoreCase\)的形式。
+2.**组合命名统一用 \_下划线命名法\(UnderScoreCase\)的形式。**
 
 3.GET只操作幂等性的查询操作。  
 4.引入CustomVerb来描述动作或指令  
@@ -100,9 +94,9 @@ GET /products?published=true
 
 如标准web调用： /v1/
 
-移动端调用： /v1.mobi/
+移动端调用： /mobi@v1/
 
-内部API调用：/v1. service/   /v1.local/
+内部API调用：/ service@v1/   /api@v1/
 
-也可参考：cdn的版本方案  /{api端点}/{mobi\|service\|local}@{版本}/{资源描述}  引入@标记。
+也可参考：cdn的版本方案  /{api端点}/{mobi\|service}@{版本}/{资源描述}  引入@标记。
 

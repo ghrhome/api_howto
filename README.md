@@ -1,4 +1,10 @@
 # API规范
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+API规范的一项重要任务，就是负责制定通用易行的规范 ，以确保ZValley OS平台开发过程中，不同场景和终端调用数据的安全、可靠和标准化。
+
+此规范设计满足通用化场景，针对ZValley OS平台的单独设计会单独说明。
+
+
+
+
 
