@@ -2,23 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e270d4bb-c44c-4a12-9125-b49061d7f5c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/apizi-dian.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jie-kou-guan-li-ping-53f0-rap.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jie-kou-kuo-zhan.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xie-yi-gui-fan/zhu-yu-ji-han-yi.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/SUMMARY.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiming-ming-gui-fan.md" beforeDir="false" afterPath="$PROJECT_DIR$/apiming-ming-gui-fan.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apishe-ji-si-lu.md" beforeDir="false" afterPath="$PROJECT_DIR$/apishe-ji-si-lu.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ban-ben-kong-zhi-gui-fan.md" beforeDir="false" afterPath="$PROJECT_DIR$/ban-ben-kong-zhi-gui-fan.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dui-wai-jie-kou.md" beforeDir="false" afterPath="$PROJECT_DIR$/dui-wai-jie-kou.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lu-jing-gui-fan.md" beforeDir="false" afterPath="$PROJECT_DIR$/lu-jing-gui-fan.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/qing-qiu-can-shu-gui-fan.md" beforeDir="false" afterPath="$PROJECT_DIR$/qing-qiu-can-shu-gui-fan.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shi-li.md" beforeDir="false" afterPath="$PROJECT_DIR$/shi-li.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xiang-ying-ge-shi-ji-jie-xi.md" beforeDir="false" afterPath="$PROJECT_DIR$/xiang-ying-ge-shi-ji-jie-xi.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xie-yi-gui-fan.md" beforeDir="false" afterPath="$PROJECT_DIR$/xie-yi-gui-fan.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zhuang-tai-ma-gui-fan.md" beforeDir="false" afterPath="$PROJECT_DIR$/zhuang-tai-ma-gui-fan.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,9 +16,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jie-kou-kuo-zhan.md">
+        <entry file="file://$PROJECT_DIR$/apizi-dian.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/image2019-8-13_11-11-33.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dui-wai-jie-kou.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor />
@@ -42,11 +43,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/jie-kou-guan-li-ping-53f0-rap.md">
+        <entry file="file://$PROJECT_DIR$/qing-qiu-can-shu-gui-fan.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="95">
-                <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <first_editor relative-caret-position="247">
+                <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
               </first_editor>
               <second_editor />
             </state>
@@ -61,8 +62,8 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
-    <option name="width" value="1939" />
-    <option name="height" value="1049" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -124,12 +125,13 @@
       <workItem from="1566460542237" duration="627000" />
       <workItem from="1566519863274" duration="1243000" />
       <workItem from="1566782592255" duration="1214000" />
-      <workItem from="1567423851385" duration="178000" />
+      <workItem from="1567423851385" duration="261000" />
+      <workItem from="1569160607268" duration="27000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3262000" />
+    <option name="totallyTimeSpent" value="3372000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -198,9 +200,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/image2019-8-13_11-11-33.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/apiming-ming-gui-fan.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -221,7 +220,36 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="95">
-            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <caret line="5" selection-start-line="5" selection-end-line="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apizi-dian.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/image2019-8-13_11-11-33.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dui-wai-jie-kou.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qing-qiu-can-shu-gui-fan.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="247">
+            <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
           </first_editor>
           <second_editor />
         </state>
