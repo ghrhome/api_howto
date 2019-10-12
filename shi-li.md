@@ -50,7 +50,7 @@ x-bce-request-id: 993ff7e9-018b-4246-a7ba-5dddac970054
 
 | 方法 | API | 说明 |
 | :--- | :--- | :--- |
-| PUT | /v3/iot/management/device?remove | 删除设备 |
+| PUT | /v3/iot/management/device.remove | 删除设备 |
 
 **请求参数**
 
@@ -63,7 +63,7 @@ x-bce-request-id: 993ff7e9-018b-4246-a7ba-5dddac970054
 **请求示例**
 
 ```
-PUT /v3/iot/management/device?remove HTTP/1.1
+PUT /v3/iot/management/device.remove HTTP/1.1
 Host: iotdm.gz.baidubce.com
 Authorization: {authorization}
 Content-Type: application/json; charset=utf-8
